@@ -1,7 +1,7 @@
 
 ![](/linux-it-logo.png)
 
-- 👋 Hi, I’m @landaal-ict
+- 👋 Hi, I’m Wesley a.k.a Computersmurf on multiple sites.
 - 👀 I’m interested in Linux , Windows , Mikrotik
 - 🌱 I’m currently learning Python , Ansible and some networking stuff
 
