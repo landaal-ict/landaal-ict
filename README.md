@@ -1,5 +1,5 @@
 
-![](/Linux-it-banner.png)
+![](/linux-it-klein.png)
 
 - 👋 Hi, I’m @landaal-ict
 - 👀 I’m interested in Linux , Windows , Mikrotik
