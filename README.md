@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 IT voor de hobby
 ----------------
 
-IT is een grote hobby voor meer dan 15 jaar.
+IT is een grote hobby al meer dan 15 jaar.
 
 * 🌍  Woon in Nederland
 * 🖥️  Bezoek mijn website [my website](http://landaalict.nl)
